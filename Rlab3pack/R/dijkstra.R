@@ -1,3 +1,13 @@
+#' Dijkstra Algorithm 
+#' 
+#' @param graph dataframe
+#' @param init_node number for starting node
+#' @description calculates the shortest path between every nodes in a graph
+#' @return shortest path between the selected node and all other node
+#' @references
+#'(https://en.wikipedia.org/wiki/Dijkstra%27s algorithm)
+
+
 dijkstra <-
 function(graph,init_node)
 {
