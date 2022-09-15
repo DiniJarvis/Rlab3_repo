@@ -1,9 +1,7 @@
 \name{wiki_graph}
 \alias{wiki_graph}
 \docType{data}
-\title{
-%%   ~~ data name/kind ... ~~
-}
+\title{wiki_graph data for djikstra algorithm}
 \description{
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
 }
@@ -22,8 +20,7 @@
 \source{
 %%  ~~ reference to a publication or URL from which the data were obtained ~~
 }
-\references{
-%%  ~~ possibly secondary sources and usages ~~
+\references{https://en.wikipedia.org/wiki/Graph
 }
 \examples{
 data(wiki_graph)
