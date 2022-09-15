@@ -2,6 +2,7 @@
 #'  
 #' @docType data
 #' @usage graphs
+#' @description wiki_graph data for djikstra algorithm
 #' 
 #' 
 #' @references 
