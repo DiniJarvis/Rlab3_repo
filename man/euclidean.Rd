@@ -17,6 +17,10 @@ the Greatest common divisor between two numbers
 \description{
 Finds the greatest common divisor of two numbers
 }
+\examples{
+euclidean(123612,13892347912)
+euclidean(100, 1000)
+}
 \references{
 https://en.wikipedia.org/wiki/Euclidean algorithm
 }
