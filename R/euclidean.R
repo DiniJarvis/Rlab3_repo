@@ -5,6 +5,8 @@
 #' @return the Greatest common divisor between two numbers 
 #' @references 
 #' https://en.wikipedia.org/wiki/Euclidean algorithm
+#' @examples euclidean(123612, 13892347912)
+#' @examples euclidean(100, 1000)
 
 
 euclidean <-

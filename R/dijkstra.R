@@ -6,7 +6,8 @@
 #' @return shortest path between the selected node and all other node
 #' @references
 #'(https://en.wikipedia.org/wiki/Dijkstra%27s algorithm)
-
+#' @examples dijkstra(wiki_graph, 1)
+#' @examples dijkstra(wiki_graph, 3)
 
 dijkstra <-
 function(graph,init_node)
